@@ -1,9 +1,8 @@
 import app from './app'
 import config from './app/config/index'
-import dotenv from 'dotenv'
+// import dotenv from 'dotenv'
 
 import mongoose from 'mongoose'
-
 
 async function main() {
   try {

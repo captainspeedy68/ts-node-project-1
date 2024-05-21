@@ -1,5 +1,5 @@
 // import { LocalGuardian } from './student.interface';
-import { Schema, model, connect } from 'mongoose'
+// import { Schema, model, connect } from 'mongoose'
 
 export type Guardian = {
   fatherName: string
